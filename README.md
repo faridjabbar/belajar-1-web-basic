@@ -1,2 +1,2 @@
-# belajar-1-web-basic
+# lesson-1-web-basic
 belajar web
